@@ -31,10 +31,3 @@
 | [**readingViewer**](https://github.com/Lucasldab/readingViewer) | Wayland-native image viewer (C) with stitching + clamped pan |
 | [**crypt-files**](https://github.com/Lucasldab/crypt-files) | Hide arbitrary files inside images via LSB steganography (Rust) |
 | [**rKanban**](https://github.com/Lucasldab/rKanban) | Keyboard-driven Kanban board for the terminal (Rust, Ratatui) |
-
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucasldab&show_icons=true&hide_border=true&count_private=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasldab&layout=compact&hide_border=true" height="150" />
-</p>
