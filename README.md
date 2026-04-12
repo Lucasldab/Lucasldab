@@ -1,7 +1,8 @@
 <h1 align="center">Lucas Barros</h1>
 
 <p align="center">
-  Computer Scientist from Brazil 🇧🇷 — I build small, sharp tools for Linux.
+  Computer Scientist from Brazil 🇧🇷 — I build small, sharp tools for Linux.<br/>
+  Incoming MSc in Data Science, Statistics & Decision Analysis @ Stockholm University 🇸🇪
 </p>
 
 <p align="center">
@@ -20,6 +21,7 @@
 - 🦀 Writing terminal-first Rust tools — finance tracker, kanban, typing trainer, MTG spoiler feed
 - 🐧 Building native Linux/Wayland apps in C (manhwa reader, Steam helpers)
 - 🧩 Scratching my own itches: if a GUI annoys me, I replace it with a TUI
+- 🎓 Incoming MSc in Data Science, Statistics & Decision Analysis @ Stockholm University
 
 ### Picks
 
