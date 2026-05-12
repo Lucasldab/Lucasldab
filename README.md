@@ -18,8 +18,8 @@
 
 ### What I'm up to
 
-- 🦀 Writing terminal-first Rust tools — finance tracker, kanban, typing trainer, MTG spoiler feed
-- 🐧 Building native Linux/Wayland apps in C (manhwa reader, Steam helpers)
+- 🦀 Writing terminal-first Rust tools — Steam manager, Minecraft launcher, manhwa reader, kanban, finance tracker
+- 🐧 Building native Linux/Wayland apps in C (image viewer, music daemon)
 - 🧩 Scratching my own itches: if a GUI annoys me, I replace it with a TUI
 - 🎓 Incoming MSc in Data Science, Statistics & Decision Analysis @ Stockholm University
 
@@ -27,9 +27,10 @@
 
 | Project | What it does |
 |---|---|
-| [**noguisteam**](https://github.com/Lucasldab/noguisteam) | Manage Steam games without the official client |
-| [**protONsteam**](https://github.com/Lucasldab/protONsteam) | Browser extension showing Proton compatibility on Steam pages |
-| [**mrm**](https://github.com/Lucasldab/mrm) | Terminal manhwa/manga reader + library manager (Rust, Ratatui) — auto-status, background polling, desktop notifications |
-| [**readingViewer**](https://github.com/Lucasldab/readingViewer) | Wayland-native image viewer (C) with stitching + clamped pan |
-| [**crypt-files**](https://github.com/Lucasldab/crypt-files) | Hide arbitrary files inside images via LSB steganography (Rust) |
+| [**noguisteam**](https://github.com/Lucasldab/noguisteam) | Manage Steam games without the official client — install, wishlist deals, customizable palette (Rust, Ratatui) |
+| [**ichr**](https://github.com/Lucasldab/ichr) | Terminal Minecraft Java launcher — Fabric/Quilt/Forge/NeoForge, Modrinth modpacks, Microsoft auth (Rust) |
+| [**mrm**](https://github.com/Lucasldab/mrm) | Terminal manhwa/manga reader + library manager — auto-status, background polling, notifications (Rust, Ratatui) |
+| [**nocturne**](https://github.com/Lucasldab/nocturne) | Music pin/cycle daemon — pins favorites to JSONL, syncs to phone via Syncthing, embeds covers (C) |
+| [**readingViewer**](https://github.com/Lucasldab/readingViewer) | Wayland-native image viewer — image stitching + clamped pan (C) |
 | [**rKanban**](https://github.com/Lucasldab/rKanban) | Keyboard-driven Kanban board for the terminal (Rust, Ratatui) |
+| [**protONsteam**](https://github.com/Lucasldab/protONsteam) | Browser extension showing Proton compatibility on Steam pages |
