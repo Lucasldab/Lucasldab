@@ -20,7 +20,7 @@
 
 ### What I'm up to
 
-- 🦀 Writing terminal-first Rust tools — Steam manager, Minecraft launcher, manhwa reader, kanban, finance tracker
+- 🦀 Writing terminal-first Rust tools — Steam manager, Minecraft launcher, manhwa reader, MTG deck builder
 - 🐧 Building native Linux/Wayland apps in C (image viewer, music daemon)
 - 🧩 Scratching my own itches: if a GUI annoys me, I replace it with a TUI
 - 🎓 MSc student in Data Science, Statistics & Decision Analysis @ Stockholm University
@@ -30,10 +30,11 @@
 
 | Project | What it does |
 |---|---|
-| [**noguisteam**](https://github.com/Lucasldab/noguisteam) | Manage Steam games without the official client — install, wishlist deals, customizable palette (Rust, Ratatui) |
-| [**ichr**](https://github.com/Lucasldab/ichr) | Terminal Minecraft Java launcher — Fabric/Quilt/Forge/NeoForge, Modrinth modpacks, Microsoft auth (Rust) |
-| [**mrm**](https://github.com/Lucasldab/mrm) | Terminal manhwa/manga reader + library manager — auto-status, background polling, notifications (Rust, Ratatui) |
 | [**nocturne**](https://github.com/Lucasldab/nocturne) | Self-hosted music system — C daemon picks what lives on the phone, Kotlin/Compose Android app, syncs via Syncthing |
+| [**mrm**](https://github.com/Lucasldab/mrm) | Terminal manhwa/manga reader + library manager — auto-status, background polling, notifications (Rust, Ratatui), with an [Android reader](https://github.com/Lucasldab/mrm-phone) (Kotlin) |
+| [**ichr**](https://github.com/Lucasldab/ichr) | Terminal Minecraft Java launcher — Fabric/Quilt/Forge/NeoForge, Modrinth modpacks, Microsoft auth (Rust) |
+| [**noguisteam**](https://github.com/Lucasldab/noguisteam) | Manage Steam games without the official client — install, wishlist deals, customizable palette (Rust, Ratatui) |
+| [**mtgtuibuilder**](https://github.com/Lucasldab/mtgtuibuilder) | Terminal MTG deck builder — Archidekt-style categories, Commander legality, Cardmarket prices (Rust, Ratatui) |
 | [**TCC**](https://github.com/Lucasldab/TCC) | BSc thesis — hyperparameter optimization of neural networks: PSO, TPE, Gaussian-process BO (Python, Keras) |
 | [**readingViewer**](https://github.com/Lucasldab/readingViewer) | Wayland-native image viewer — image stitching + clamped pan (C) |
 | [**rKanban**](https://github.com/Lucasldab/rKanban) | Keyboard-driven Kanban board for the terminal (Rust, Ratatui) |
