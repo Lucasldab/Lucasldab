@@ -23,6 +23,7 @@
 - 🦀 Writing terminal-first Rust tools — Steam manager, Minecraft launcher, MTG deck builder
 - 🐧 Building native Linux/Wayland apps in C (image viewer, music daemon)
 - 🧩 Scratching my own itches: if a GUI annoys me, I replace it with a TUI
+- 🔧 Contributing upstream: a merged fix so [ratatui-image](https://github.com/ratatui/ratatui-image/pull/201) renders terminal images inside tmux
 - 🎓 MSc student in Data Science, Statistics & Decision Analysis @ Stockholm University
 - 💼 Open to part-time work in Stockholm (dev, data, IT)
 
